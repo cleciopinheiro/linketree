@@ -18,7 +18,7 @@ export default function Home() {
             WHATSAPP 2
           </a>
           
-          <a href="https://drive.google.com/file/d/1a_WrN6PUBqMyNQcE7tDoknq-xke6TzEK/view?usp=sharing" target="_blank" className="flex py-3 px-6 bg-red-600 gap-4 items-center justify-center text-white rounded-lg">
+          <a href="https://drive.google.com/file/d/1KjrNe9qNVqdcwh7p7XALkihxA3VZHpe0/view" target="_blank" className="flex py-3 px-6 bg-red-600 gap-4 items-center justify-center text-white rounded-lg">
             <GrCatalog size={30} />
             CATÁLOGO
           </a>
